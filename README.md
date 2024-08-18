@@ -2,6 +2,8 @@
 
 #### Here you can find the solves of problems encountered by me while working. It can be related to programming, software, hardware or any other techs. Feel free to contribute and share your one to help others.
 
+To conrtribute simply clone the repo and add your commit.
+
 ### Contributor
 
 <table>
